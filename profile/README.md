@@ -1,4 +1,5 @@
-## Hi there 👋
+**pdjr-signalk** provides a collection of plugins and webapps for
+[Signal K](https://github.com/signalk).
 
 <!--
 
